@@ -1,0 +1,14 @@
+.class {
+    color: green;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+        sans-serif;
+    font-size: 50px;
+}
+
+/* comment */
+
+#id {
+    text-transform: uppercase;
+    font-size: 60px;
+    letter-spacing: 2;
+}
