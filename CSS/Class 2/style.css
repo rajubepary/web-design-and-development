@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ .btn{
+     color:#fff;
+     background-color: orange;
+     padding: 15px 25px;
+     margin:25px;
+
+ }
